@@ -41,4 +41,4 @@ Due to security concerns, the source code includes only pumpfun bundler part.
 For inquiries or specific use-case integratinos, feel free to reach out:
 
 📩 **E-Mail:** adamglab0731.pl@gmail.com  
-📬 **Telegram:** [@bettyjk_0915](https://t.me/bettyjk_0915)  
+📬 **Telegram:** [@Vlad20316](https://t.me/Vlad20316)  
